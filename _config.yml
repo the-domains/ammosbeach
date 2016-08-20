@@ -1,0 +1,14 @@
+layout_spectrum: 0.2156431213952601
+typography_spectrum: 0.1399909637402743
+color:
+  brandStrength: 0.9732196824625134
+  lightness: 0.9348699818365276
+  saturation: 0.7976761697791517
+  rhythmicContrast: 0.2194795091636479
+  brandColors:
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+name: AmmosBeach
