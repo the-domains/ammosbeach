@@ -1,3 +1,4 @@
+layout_spectrum: 0.2156431213952601
 typography_spectrum: 0.1399909637402743
 color:
   brandStrength: 0.9732196824625134
@@ -10,7 +11,4 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-layout_spectrum: 0.2156431213952601
-name: Ammos Beach
-title: Ammos Beach
-description: Opening May 2017
+name: AmmosBeach
